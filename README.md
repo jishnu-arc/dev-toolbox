@@ -4,7 +4,8 @@ A fast, private, offline-ready set of everyday developer tools in a single web p
 
 **[Live demo](https://jmexe12.github.io/dev-toolbox/)**
 
-![Developer Toolbox screenshot](screenshot.png)
+![Developer Toolbox screenshot](<img width="1423" height="522" alt="image" src="https://github.com/user-attachments/assets/36899ed7-4969-4c63-8224-878643b22b57" />
+)
 
 ## Tools
 
