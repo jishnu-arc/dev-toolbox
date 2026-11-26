@@ -2,7 +2,7 @@
 
 A fast, private, offline-ready set of everyday developer tools in a single web page. No sign-up, no tracking, no server. Everything runs in your browser.
 
-**[Live demo](https://YOUR-USERNAME.github.io/dev-toolbox/)**
+**[Live demo](https://jmexe12.github.io/dev-toolbox/)**
 
 ![Developer Toolbox screenshot](screenshot.png)
 
@@ -31,7 +31,7 @@ A fast, private, offline-ready set of everyday developer tools in a single web p
 ## Run it locally
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/dev-toolbox.git
+git clone https://jmexe12.github.io/dev-toolbox/**
 cd dev-toolbox
 python3 -m http.server 8000
 ```
