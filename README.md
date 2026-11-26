@@ -2,7 +2,7 @@
 
 A fast, private, offline-ready set of everyday developer tools in a single web page. No sign-up, no tracking, no server. Everything runs in your browser.
 
-**[Live demo](https://jmexe12.github.io/dev-toolbox/)**
+**[Live demo](https://jishnu-arc.github.io/dev-toolbox/)**
 
 ![Developer Toolbox screenshot](<img width="1423" height="522" alt="image" src="https://github.com/user-attachments/assets/36899ed7-4969-4c63-8224-878643b22b57" />
 )
